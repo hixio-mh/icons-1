@@ -57,7 +57,7 @@
     "stylelint-config-twbs-bootstrap": "^2.2.3",
     "svg-sprite": "^1.5.2",
     "svgo": "^2.3.1",
-    "vnu-jar": "21.6.11"
+    "vnu-jar": "21.9.2"
   },
   "engines": {
     "node": ">=10"
